@@ -22,7 +22,7 @@ cd $NETLIFY_REPO_DIR
 : ${RUBY_VERSION="2.6.2"}
 : ${YARN_VERSION="1.13.0"}
 : ${PHP_VERSION="5.6"}
-: ${GO_VERSION="1.12"}
+: ${GO_VERSION="1.14.2"}
 : ${SWIFT_VERSION="5.2"}
 
 echo "Installing dependencies"
