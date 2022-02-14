@@ -19,6 +19,6 @@
   "homepage": "https://github.com/netlify/build-image#readme",
   "devDependencies": {
     "auto-changelog": "^1.10.2",
-    "gh-release": "^3.4.0"
+    "gh-release": "^4.0.0"
   }
 }
